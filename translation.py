@@ -3,7 +3,7 @@ from sample_config import Config
 class Translation(object):
     START_TEXT = """Hello <i><b>{}</b></i>,
 
-This is a Telegram Rename clone of <a href='https://t.me/renamer_Ns_bot'>Renamer NS BOT</a> by {}
+This is a Telegram Rename clone of <a href='https://t.me/Renamepgbot'>Renamer NS BOT</a> by {}
 
 I Can rename ✍ with custom thumbnail and upload as video/file
 
@@ -64,10 +64,10 @@ Please short your file name and try again!"""
 
 **🧰 Framework:** Pyrogram
 
-**👨‍💻 Developer:** [Anonymous](https://t.me/Ns_AnoNymouS)
+**👨‍💻 Developer:** [Anonymous](https://t.me/Rohith_no_1)
 
-**📮 Channel:** [NS BOT UPDATES](https://t.me/Ns_bot_updates)
+**📮 Channel:** [NS BOT UPDATES](https://t.me/pigasusupdates)
 
-**👥 Group:** [NS BOT SUPPOTERS](https://t.me/Ns_Bot_supporters)
+**👥 Group:** [NS BOT SUPPOTERS](https://t.me/pigasussupport)
 
-**💻 Source Code:**[Press Me](https://github.com/Ns-AnoNymouS/TG-RENAMER-BOT)"""
+**💻 group managament:**[Press Me](https://t.me/VALTAOITHEBOT)"""
